@@ -1,9 +1,9 @@
-# Site settings
-title: Your Blog
+﻿# Site settings
+title: 王晗
 SEOTitle: 王晗 | Your Blog
 header-img: img/home-bg.jpg
 email: 1291861473@qq.com
-description: "嫌われる勇気"
+description: ""
 keyword: ""
 url: "http://WHlsl.github.io"              # your host, for absolute URL
 baseurl: "/WHlsl.github.io"         # for example, '/blog' if your blog hosted on 'host/blog'
@@ -12,11 +12,11 @@ baseurl: "/WHlsl.github.io"         # for example, '/blog' if your blog hosted o
 
 # SNS settings
 RSS: false
-weibo_username:     huxpro
-zhihu_username:     huxpro
-github_username:    huxpro
-#twitter_username:  huxpro
-facebook_username:  huxpro
+weibo_username:     DM48王晗
+zhihu_username:     
+github_username:    WHlsl
+#twitter_username:  
+facebook_username:  
 
 
 
@@ -68,8 +68,8 @@ ga_domain: huangxuan.me
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "写写代码，做做设计，看看产品。世界那么大，多玩玩看看。"
-sidebar-avatar: /img/avatar-hux.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-about-description: "游戏拯救世界。"
+sidebar-avatar: /WHlsl.github.io/img/avatar-wh.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
@@ -82,19 +82,13 @@ featured-condition-size: 1              # A tag will be featured if the size of 
 # Friends
 friends: [
     {
-        title: "Hux Blog",
-        href: "http://huangxuan.me"
+        title: "WangHan Blog",
+        href: "http://WHlsl.github.io"
     },{
-        title: "Foo",
-        href: "#"
+        title: "Ciel",
+        href: "http://ciel1012.github.io"
     },{
-        title: "Bar",
-        href: "#"
-    },{
-        title: "Example Friends",
-        href: "#"
-    },{
-        title: "It helps SEO",
-        href: "#"
+        title: "天才宝藏",
+        href: "http://zhuowl.github.io"
     }
 ]
