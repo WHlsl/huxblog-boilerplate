@@ -1,8 +1,8 @@
 ﻿# Site settings
-title: 王晗
-SEOTitle: 王晗 | Your Blog
+title: WangHan
+SEOTitle: WangHan | Your Blog
 header-img: img/home-bg.jpg
-email: 1291861473@qq.com
+email: dmwanghan97@gmail.com
 description: ""
 keyword: ""
 url: "http://WHlsl.github.io"              # your host, for absolute URL
@@ -50,7 +50,7 @@ kramdown:
 #disqus_username: _your_disqus_short_name_
 
 # Duoshuo settings
-duoshuo_username: huxblog
+duoshuo_username: wanghanblog
 # Share component is depend on Comment so we can NOT use share only.
 duoshuo_share: true                     # set to false if you want to use Comment without Sharing
 
