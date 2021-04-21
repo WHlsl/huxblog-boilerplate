@@ -6,7 +6,7 @@ email: dmwanghan97@gmail.com
 description: ""
 keyword: ""
 url: "http://WHlsl.github.io"              # your host, for absolute URL
-baseurl: "/WHlsl.github.io"         # for example, '/blog' if your blog hosted on 'host/blog'
+baseurl: ""         # for example, '/blog' if your blog hosted on 'host/blog'
 
 
 
